@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: ZIP
+Name: com.larvalabs.svgandroid
+Created-By: XPila
+Built-By: XPila
+Build-Jdk: 1.6.0-google-v4
+
